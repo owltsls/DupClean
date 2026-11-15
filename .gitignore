@@ -1,0 +1,20 @@
+# .NET build artifacts
+bin/
+obj/
+[Dd]ebug/
+[Rr]elease/
+
+# Publish output
+publish/
+
+# IDE / OS noise
+.vs/
+.idea/
+*.user
+*.suo
+Thumbs.db
+Desktop.ini
+
+# Local data generated at runtime (logs, recycle-bin isolation area)
+DupClean_Data/
+*.log
